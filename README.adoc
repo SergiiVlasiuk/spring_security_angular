@@ -1,0 +1,5 @@
+This project taken from spring examples: https://github.com/spring-guides/tut-spring-security-and-angular-js/tree/master/single.
+The main purpose is to investigate where from html takes csrf.
+
+
+The server starts using port 8090.
